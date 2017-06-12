@@ -1,0 +1,4 @@
+#Run with
+watch python3 rezultati.py
+
+dependencies: pyquery,urllib3
